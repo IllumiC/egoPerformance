@@ -4,23 +4,23 @@
   <Engine>
     <RevsPowerSpline numVertices="19">
       <SplineElement x="0" y="0" op="=" />
-      <SplineElement x="69.9528" y="8437.4892578125" op="=" />
-      <SplineElement x="121.655289" y="21364.2421875" op="=" />
-      <SplineElement x="176.0811" y="40230.87890625" op="=" />
-      <SplineElement x="247.059937" y="72085.4140625" op="=" />
-      <SplineElement x="326.8007" y="117298.828125" op="=" />
-      <SplineElement x="413.5384" y="177209.422" op="=" />
-      <SplineElement x="514.7543" y="258964.484" op="=" />
-      <SplineElement x="629.6146" y="343984.1" op="=" />
-      <SplineElement x="759.6371" y="423419.375" op="=" />
-      <SplineElement x="902.426758" y="504961.469" op="=" />
-      <SplineElement x="995.594" y="558506.4375" op="=" />
-      <SplineElement x="1046.77869" y="580227.125" op="=" />
-      <SplineElement x="1099.97632" y="596560" op="=" />
-      <SplineElement x="1203.06" y="595567.9" op="=" />
-      <SplineElement x="1230.45" y="589860.2" op="=" />
-      <SplineElement x="1308.21606" y="544127.7" op="=" />
-      <SplineElement x="1487.02051" y="300000" op="=" />
+      <SplineElement x="69.9528" y="8226.5520263671879" op="=" />
+      <SplineElement x="121.655289" y="20830.1361328125" op="=" />
+      <SplineElement x="176.0811" y="39225.10693359375" op="=" />
+      <SplineElement x="247.059937" y="70283.2787109375" op="=" />
+      <SplineElement x="326.8007" y="114366.357421875" op="=" />
+      <SplineElement x="413.5384" y="172779.18645" op="=" />
+      <SplineElement x="514.7543" y="252490.3719" op="=" />
+      <SplineElement x="629.6146" y="335384.49749999994" op="=" />
+      <SplineElement x="759.6371" y="412833.890625" op="=" />
+      <SplineElement x="902.426758" y="492337.43227499997" op="=" />
+      <SplineElement x="995.594" y="544543.7765625" op="=" />
+      <SplineElement x="1046.77869" y="565721.446875" op="=" />
+      <SplineElement x="1099.97632" y="581646" op="=" />
+      <SplineElement x="1203.06" y="580678.7025" op="=" />
+      <SplineElement x="1230.45" y="575113.695" op="=" />
+      <SplineElement x="1308.21606" y="530524.5075" op="=" />
+      <SplineElement x="1487.021" y="300000" op="=" />
       <SplineElement x="1600" y="0" op="=" />
     </RevsPowerSpline>
     <RevsTurboLagSpline numVertices="4">
@@ -252,7 +252,7 @@
     <FuelPowerScaleLean value="0.96" />
     <FuelPowerScaleStandard value="1.000000" />
     <FuelPowerScaleRich value="1.03" />
-    <FuelPowerScaleMax value="1.08" />
+    <FuelPowerScaleMax value="1.07" />
     <FuelRevsScaleLean value="1" />
     <FuelRevsScaleStandard value="1" />
     <FuelRevsScaleRich value="1" />
@@ -1241,23 +1241,23 @@
     <Engine>
       <RevsPowerSpline numVertices="19">
         <SplineElement x="0" y="0" op="+" />
-        <SplineElement x="0" y="1054.687" op="+" />
-        <SplineElement x="0" y="2670.531" op="+" />
-        <SplineElement x="0" y="5028.859" op="+" />
-        <SplineElement x="0" y="9010.68" op="+" />
-        <SplineElement x="0" y="14662.34" op="+" />
-        <SplineElement x="0" y="22151.19" op="+" />
-        <SplineElement x="0" y="32370.55" op="+" />
-        <SplineElement x="0" y="42998.03" op="+" />
-        <SplineElement x="0" y="52927.41" op="+" />
-        <SplineElement x="0" y="63120.16" op="+" />
-        <SplineElement x="0" y="69813.31" op="+" />
-        <SplineElement x="0" y="72528.38" op="+" />
-        <SplineElement x="0" y="74570" op="+" />
-        <SplineElement x="0" y="74446" op="+" />
-        <SplineElement x="0" y="73732.5" op="+" />
-        <SplineElement x="0" y="68016" op="+" />
-        <SplineElement x="0" y="37500" op="+" />
+        <SplineElement x="0" y="1265.624" op="+" />
+        <SplineElement x="0" y="3204.637" op="+" />
+        <SplineElement x="0" y="6034.633" op="+" />
+        <SplineElement x="0" y="10812.81" op="+" />
+        <SplineElement x="0" y="17594.81" op="+" />
+        <SplineElement x="0" y="26581.42" op="+" />
+        <SplineElement x="0" y="38844.66" op="+" />
+        <SplineElement x="0" y="51597.63" op="+" />
+        <SplineElement x="0" y="63512.91" op="+" />
+        <SplineElement x="0" y="75744.19" op="+" />
+        <SplineElement x="0" y="83776" op="+" />
+        <SplineElement x="0" y="87034.06" op="+" />
+        <SplineElement x="0" y="89484" op="+" />
+        <SplineElement x="0" y="89335.19" op="+" />
+        <SplineElement x="0" y="88479" op="+" />
+        <SplineElement x="0" y="81619.19" op="+" />
+        <SplineElement x="-0.0004882813" y="37500" op="+" />
         <SplineElement x="0" y="0" op="+" />
       </RevsPowerSpline>
       <RevsEngineBrakingSpline numVertices="7">

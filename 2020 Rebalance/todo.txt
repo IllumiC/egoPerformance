@@ -1,6 +1,17 @@
-- Base RevsPowerSpline
-- Upgrade RevsPowerSpline
-	- Change Ferrari -> Honda
+- RevsPowerSpline
+	/- Change Ferrari -> Honda
+		/- Base
+		/- Upgrade
 	- Change Mercedes -> Ferrari
+		- Base
+		- Upgrade
 	- Change Honda -> Mercedes
+		- Base
+		- Upgrade
 
+- Aero
+	- Ferrari Increase Drag
+		- Base
+		- Upgrade
+	- Renault Decrease Drag
+	- McLaren Decrease Drag
